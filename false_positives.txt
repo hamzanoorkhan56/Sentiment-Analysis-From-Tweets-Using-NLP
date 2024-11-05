@@ -1,0 +1,3265 @@
+Text: That time @Snowden arrived in #Russia and the FSB's Olga Kostina was waiting at the airport to facilitate his defec… https://t.co/0GXELmoCKp
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kim Davis, KY Clerk Blocking Gay Marriage, Held in CMPT. a state employee, &amp; broke the law. Have fun in prison may u find a nice woman!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: To "Deplorables" there is something wrong with those qualities!  Especially education and empathy! #notmypresident https://t.co/HX2RMXNbVt
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Activists demand release of Jharkhand tribal leader: New Delhi, Nov 1 (IANS) Condemning the arrest of woman trib... http://t.co/LZlgb1NW
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: As Chemtrails of poisonous Aluminum dim out the sun, Monsanto unveils new patents on GM seeds tolerant to Aluminum and sunlight deprivation.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I dont understand the obsession with Sharknado.... watched the first two and they sucked. Im sure the 3rd one is just as bad.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Really hope Chelsea start Baba instead of Ivanovic on Saturday, he's literally aged about 5 years over the summer
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Goodnight,Irene.Al,you are easily amused. This club stinks.I think that the Brewers may upset the apple cart and win the NL pennant.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I haven't seen my best friend since the Cubs parade ☹️ and we only live less than 5 minutes away. 😩
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Please!!! Watch Fox News 9pm central tonight (Friday) to see what Planned Parenthood is doing with with Millions of our  tax dollars.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Eamonn Holmes has dropped the biggest hint yet that he's going into the Celebrity Big Brother house on Thursday.... http://t.co/Ah93WBE7V9
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My Amazon package was supposed to be delivered today by 8pm. Guess that means I'll get it tomorrow before 8pm?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @KremlinTrolls I LOLed at that one right away.Geographically challenged tweeps.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Jay-Z stole Bigs actual words damn near da 1st 8 bars on "I just wanna love you" (give it to me)  https://t.co/xss5q3AlZy
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Who the hell am I gonna pitch tomorrow? David Price the only guy I wanna go with but he is going against us.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @politicalwire I'm still shaking my head at that decision and that the Heat & Knick are actually playing tomorrow at MSG.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The #REAL effect of #FAKEnews on the rabid right! #brexithttps://t.co/Lm0vjiKlrj
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The Red Sox have completely fallen apart here in the 10th
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You may try to suffer for there is cast into the Planned Parenthood facility in your gifts, you are above every decision is at work for p...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dunkin may be discontinuing the iced apple cider for fall and the basic bitch in me is crying....
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kerry now starts begging Iran to release American hostages, Iranians laughing all the way to the bomb. # Sunday Morning Futures @FoxNews
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Merkel's Germany could not Crush Europe with Bombs Muslims May be a better consideration David Cameron  http://t.co/QC0oyr4U0J
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @kendalldawn13 it's time to call in the CBB...Monday is going down!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @kingkc1 What's annoying is that the one I pre-ordered just came today...Steve Jobs just looted my card.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @apwestgarth In case you didn't spot it, Greys Anatomy is back next Wednesday at 10 on Living // @stack72
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @justin_kaoma Dope night with the Eagles .did #sangz1 tell you he deleted all the pics
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @sesdsports: According to reporters on the scene, Lions rookie RB Mikel Leshoure was carted off field today with a left leg injury. Sry bro
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 3rd rep just hung up on me. Absolutely devastated at how @microsoft's customer service treated me, wow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Heads up: An important change to Amazon Prime effective August 1 will limit how you can share free P... http://t.co/BndStpoVJq @debtblag
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Overheard: being gay at church on sunday - me: now back to this bitch who had a lot to say about me during... http://t.co/357FtBum6a
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm going to fight Justin tomorrow during lunch idc idc dc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fierce fighting erupts between Chadian army and Boko Haram: Heavy fighting pitted the Chadian army on Monday a... http://t.co/N1AK3Z7C9J
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Can we just really piss Madrid off and sell De Gea to Barca in January
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nigeria needs gun control @FRSCNigeria Gaining approval to carry arms! @NGRSenate should reconsider this..no good can come out of it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @dailykos #ThankYouObama for destroying the Democratic party and your legacy within 100 days of you leaving office https://t.co/qrH4uskSip
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: sooooo teen wolf deprived and its not coming back till january it's gonna make the next few months even slower
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @AaronGleeman Cubs fans still complaining that Kris Bryant didnt come up til May now number in the dozens.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: listening to a Richie Hawtin set isn't the best thing to do on a Sunday when your going to bed...ravin ma tits aff now ha
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Anyone else feel like Cool Pope may be in jeopardy of going down Julius Caesar-style?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: LAKERS NOTEBOOK: Nash listed as doubtful for showdown with Clippers: Steve Nash and Kobe Bryant sat out ... http://t.co/aElumTSD #lakers
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sorry I can't make it in to work tomorrow got caught in a SHARKNADO
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching Contraband on the PVR & it's too frigging predictable to continue watching. Gonna go wash my hair. #friday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Tayyl0rgang you won't see me tomorrow :( on my way home from Alabama...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tuesday will be my last day in Florida :-(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John cent vs Seth Rollins: am I the only one who's not gonna be happy Sunday in the John cena vs Seth Rollins ... http://t.co/SaUb0sIiNw
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 'SOS' not an over the top comedy: Ashwni Dhir: Mumbai, Nov 1 (IANS) Forthcoming comedy \""Son Of Sardaar\"" might be... http://t.co/cUSIitOF
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @dlrininger7177 you can say shitty fan bases all you want, but you did see that every other state wanted the @Cubs to win the WS, right?...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 4th quarter Westbrook (Honey Badger) is going to miss James Harden. #ThunderUP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kanye West may in fact be the biggest douche bag in the history of the universe
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Listened to Brock Lesnar on ESPN radio this morning and a little disappointed he wasn't able to plug Logan Storley's 1st MMA match Friday.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dean Ambrose Want the UGLY (#WyattFamily)one on Friday Night #SmackDown.BUT I confused which one the UGLY ONE..I mean the all are UGLY !
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: And just when I had a few nice things to say about Google+ in my 2nd edition, I've gotta omit it entirely. Much like Google's doing.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @GMWatch @RepMikePompeo @marcorubio @SenBillNelson Please explain why you support Monsanto! http://t.co/AQJIFuAmBY
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ruble sliding again today, with dollar cracking above 64 rubles, for first time since Valentine's Day in February. http://t.co/sL7ZYvAGC5
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @British_Airways I arrived in Milan on Wednesday and I have yet to receive the remaining 6 pieces of my luggage. No one seems to care.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The International Committee of the Red Cross on Friday warned that three Palestinian hunger strikers were at risk... http://t.co/rOHLu0N6
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: by putting it on your face, you're condoning animal testing and animal ingredients in make up!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If Yakub hangs, it would prove Tiger Memon right. Pakistan's ISI will have the last laugh. http://t.co/N7rcGHUzUR
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tom Brady may have became the most hated person in the NFL over the last few months
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #tech Apple CEO apologizes for error-ridden new map app - Apple CEO Tim Cook apologized Friday for the company&#039;... http://t.co/KRVX70C2
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Jay-Z is the 2nd Most Overrated Rapper of All-Time behind Drake
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: When Mr.Craig said sunday night was officially the last day of Marching Band. < <
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Probably going to complain another 20 times today about how Justin performs on the today show tomorrow when I start school
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ZinedineHimovic you're Floyd may weather and I'm 50 cent don't make me force you to read full sentences from Harry Potter
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I miss [Spoiler]. 😭 #thewalkingdead
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My random rant of the night:Lady Gaga being considered a fashion icon!Who in their right mind considers that fashion?She dresses in trash.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Loca_Lesley Well have to have a defensive stand at the beginning of the 3rd. But lord knows Ike Taylor will get beat deep
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Still in search of the really Dayna Santullo. She's been missing since she willingly passed on a Chris Brown concert on Saturday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'd rather let Conor McGregor full on kick me in the dick than go to work tomorrow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: finally watching edge of tomorrow nd surprise surprise, tom cruise is annoying in it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: New post: Monsanto wants to replace the bees they are killing with genetically engineered flying ants http://t.co/Sk9hXSYKJa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You may remember Frank Gifford as a great football player or broadcaster. But I remember him as the guy who wanted anal from a stewardess
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #HP Fiorina may find center stage uncomfortable: Republican presidential candidate Carly Fiorina, the former H... http://t.co/gfW5t3CdDy
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 6am whilst at work may not have been best time to listen for the first time, but not completely feeling the new Iron Maiden just yet :-/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hard to be excited about Eric church at wefest for the 3rd time in 5 years. Does literally no one else want to headline?!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @RefriedBrean And then both teams took dumps in the 2nd round of the Big Dance, KU flaming out against UCLA, Mizzou losing to Northern Iowa.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Thanks for hating America, SCOTUS. I hope you all get cancer. OK, good talk. cc: @POTUS  https://t.co/AnHRsuuuYE
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @PRINCE_NYC lol this is the first time i eat pancakes since Monday. & damn you just Hurt my feelings
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Floyd Mayweather has caused outrage with his 'top 5 boxers of all time'... Ali is only 4th. This is ridiculous! http://t.co/fNmhBDSQOI
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Think Bernie Sanders may be headed for an accident with gym equipment like the one that banged up Harry Reid? @BernieSanders #Hillary2016
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: MacDougall is killing the Raiders.  Mad Dog scores 2nd after good leadup work from Gidley and Houston. Gidley misses kick. Knights 16-4
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I saw Paper Towns on Friday, it was good I guess but there was so much changes compares to the book, it bothered me
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @IanKingSky never have I read such scaremongering bullshit in the Tory led SUN newspaper as the shit you wrote in all my life!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: In a village in the northeast of the country on Tuesday, suspected Boko Haram militants burned down houses,... http://t.co/xF7pebfIdh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I will love to see a pile of bodies of #ISIS or any fighter.But I only saw civilians lots of childs and women all over #Syria @sanpatkan1
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: okay tomorrow is hell day. can't wait to get in my car and drive home as fast as humanly possible. call me danica patrick, if you must
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Keith Richards means nothing to Monday night and is awful, cant we all just forgive Hank Jr!?!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Murray about as dead as the aliens in Independence Day on July 4th in #America. They die in the movie either way but worse on the 4th. #Dead
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Cba with work tomorrow! #Boring #Blag
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Well now all the pre-teen aged girls who were thinking of paying money to go watch Thor or Kong at the movies are going to have 2nd thoughts
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Only going by the latest game stats but think I may have made a mistake backing juventus
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Erdogan: Peace process with Kurdish militants impossible  http://t.co/1F3riULRQc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @samsung @SamsungMobileUS this is my 3rd Galaxy Note 4 and still glitchy I have to restart it about 3 times a day. What happened to quality?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Is it evil to laugh when a 3rd grader reads a short story, and at least five times, mistakes the name \""Becky\"" for \""Blocky?\"" #stickingtoit
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @D_J_Harvey I think they may want a guy with back problems. Here, have Ryan Braun!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My sister wants me to workout with her at the crack of dawn tomorrow in oracle...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Randall is not happy #ThisIsUs
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Maths topic test better be on Thursday or I'll be so angry at the teacher.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Back to Norwich City tomorrow to do loads more shopping as we couldn't fit it all in on Monday... #shopping #Norwich #addicted
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Get the Concords in December, get my camaro into an accident with a brand new civic and get a ticket on top of it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @jgdownie @ConversationEDU Are there any good arguments against the human rights/non medical model? IE philosophical Suicide/euthanasia
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nothing ruins a Friday morning more than hearing U2 - Beautiful Day on the radio
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Jon Stewart cheating he helps Seth Rollins win that some cheap Monday Night Raw comes on tomorrow and I'm not going to be happy
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: AC/DC is in Toronto tomorrow and I can't believe I'm gonna miss it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: talking to my 2nd graders about intruder drills &amp; one raises their hand and says "did you know Chuck Norris is real?" #teacherproblems
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MarioMelchiot Rousey my dear, aim higher please. What's in it to waste time with a lizard shit 'runner'?   C'mon!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MikeAndMike Big Ben had the best rookie year out of all those quarterbacks and when he one his 2nd Super Bowl had a terrible line
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I have till Thursday to know every damn word to every damn song Eric church is going to sing
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Aiya won't see this face for awhile and obsess over Melania's speech together !1!1!! https://t.co/JQj5feDO45
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Amazon Prime Day: What all the fuss is about: Amazon's Prime Day promised massive deals rivaling Black Friday,... http://t.co/DUhXiEglXm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Apple CEO apologizes for error-ridden new map app: Apple CEO Tim Cook apologized Friday for the company's error-ridden new mobile map...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Let's see what shitty movie Netflix has recommended for me to watch tonight.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #ForceFriday as a whole was pretty disappointing. Not sure who dropped the ball - retailers, Hasbro, or Disney. It's Star Wars! C'mon!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Tweet4Labour UKIP polled 2nd in Labour-held seats in the north, if we continue with Tory-lite policies then UKIP will crush us in the north
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: What the fuck. Paul McCartney is finally coming back to Detroit and tickets go on sale tomorrow. I don't have 8000 dollars
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Messi has now failed to score against Atletico for the 5th consecutive game
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: First Thanksgiving, Christmas, New Years, Valentines Day and Birthday without my Dad 😪!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: ima go see LAMB OF GOD tomorrow in hollyWEED. come get punched in the fuckin face in the pit
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kind of really upset I'm missing fgl tomorrow night. Guess I'll have to make up for it at Jason Aldean
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: In China, #Obama and Kim Jong Un Are Actors and Best Friendshttps://t.co/VisWZ3HHrV https://t.co/02PFKxLAKa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @BloodyFlowers @otepofficial YES! Conservatives HATE facts!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Perhaps a bit insensitive showing the film Four Lions in the run up to the 9/11 10th anniversary..... #justsaying
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm going to be so lost at cypress tomorrow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Speaking of King cake, the 1st time my mom had some, she ate the baby. Got stuck in her throat and she had to got to the doc to get it out.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My grandparents really just sat me down &amp; made me read scriptures about how being gay is an abomination &amp; told me I'm going to hell... Welp.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank was the anchorman. I have already missed Frank Gifford for a long time. I feel more sorrow about it now.  https://t.co/U8XNLAZvzA
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Why would you get married on Sept 11th?! If you want a 'special date', pick Valentine's Day like everyone else, leave that day alone.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @wheeler_afc pls TV5 just get that sucker's leg (rvp) broken 4 me on saturday pls!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Parker, Leonard steal OKC's thunder: Ninety minutes before tipoff Thursday night at the AT&T Center, Oklahoma Ci... http://t.co/NNjbPSWk
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Somalia: the 2nd most dangerous country on Earth for Christians. Pray for #ThePersecutedChurch http://t.co/Tx0nAMm3XN http://t.co/ijZMgX0W0B
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Going to watch Goon for the 4th time, cry, then go to sleep. #NHLLockout
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ate McDonald's and feel guilty so I'm goin to 24 for an hour or 2, then to AZ tomorrow, go and try and make my life better
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You know you are desperate of answer when you see the 2nd page of google.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: BJP members walk out from JPC meeting on 2G: Bharatiya Janata Party (BJP) members on Tuesday walked out of the p... http://t.co/pOvV7bds
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @GCTigerTracker - ONCE AGAIN TIGER WOODS SHITS THE DAMN BED ON A  SATURDAY, SUNDAY OR BOTH (which BOTH is what it is most of the time)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: dear German citizens any concerns or criticisms you may have over my actions mean you are xenophobic and racist. i win love Angela Merkel
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: On the surface, the Film Independent Spirit Awards and the Academy Awards don't appear to share much in common
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Toews backing Kane &amp; Voynov arrested by Immigration in US. Oh, tomorrow is going to be an icky NHL news/comment day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fact checks,with neoliberal operating assumptions, grossly downplaying the embargo etc. See:… https://t.co/qyhDr4SUBr
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @kevinmccauley There's a bunch but:Pain in My HeartMBDTF & College DropoutFreewheelin' Bob DylanRidin' Dirty (H-Town)Pet Sounds
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: They may have ditched Hulk Hogan but the WWE still stink: http://t.co/F2SQ5ADNtd http://t.co/Kz1up2mlvC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @victoryseriesHD I will make Dua and Keep you all in my Mind. May Allah have Mercy on all Mujahidin and Muslims and destroy Kuffar AMIN!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #Buzzfeed is using #BIGOTED #ReligiousTest! #ChipGaines #JoannaGaines #HGTV #Christian https://t.co/WWFquMUaE9
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @NariahCFC against barca pre season stand out player 1st half.. I dunno what's going on with us atm frustrating to see us lose
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: EU is finished, in my opinion. Marine Le Pen will win France elections and try to get her country out of the union. #Renzi
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: MetroPCS First to Market with 4G Rich Communication Services: MetroPCS may not be the largest wireless carrier -... http://t.co/beYVU9Wi
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Lol, get a grip #royals fans. I can forgive the HRs, but he biffed that pitch to Thor and then fell apart in the 4th https://t.co/5vyHq69IQn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I just looked at UVa's SAT requirements and such... im definitaly not getting in straight up. lawl at me. looks like im going to transfer.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If Murray loses this 2nd set I'm pretty sure he won't win this.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Drudge Update: Crisis adds to anxiety about Islam... - Crisis adds to anxiety about Islam... (Third column, 4th st... http://t.co/vboVIox8FI
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: GA Tech Game, Falcons Game, Joe Biden in town, Dragon Con, Labor Day Traffic, Rain Traffic..I may just stay the night where im at fuck it.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: when is UVa just gonna cancel classes for tomorrow already? JESUS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I was supposed to go to the Covina game tomorrow to see Josh, I don't even know wtf I'm doing!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @HTTR24_7 If Cundiff is still the kicker come Sunday I'm starting a riot.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Why does the Knicks/Heat game have to come on tomorrow night during BibleBall? Oh well I'd rather play than watch any day!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @skookerG  - when is the last time Christian hung gays?  i'll tell you the last time Islam hung gays,  yesterday, today &amp; tomorrow, etc, etc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Triple Traffic Threat: #dragoncon.  Thursday @7:30, Falcons game, Georgia Tech game, and Joe Biden   on the downtown connector.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's Justin's funeral tomorrow, it was a pleasure to have known and worked with such a great racer. RIP Badass   https://t.co/HFCoNcJ4Vz
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I wanna see @lalahhathaway Friday with al green so bad. Missing my Pinkroom family!! #
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @RedState4Ever @Merry__Can @therealcornett @megynkelly In June, I cut off Fox altogether! Dana, Juan, and Megyn all bat for the other team.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: FAM MY NIGGA WAS BURNT @BokiiitaDolla @chefboyjav @shortttstackk @whoissancocho @52_legna #MannequinChallenge https://t.co/US8pNNYBWV
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Janet Jackson is coming on September 18th I will give someone $50 to shoot her in the fucking face
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @hafshay Well it rained all day on Eid, then second day was hot but then 3rd day and even aj bi its raining so
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @magog83 ehm. Well. Uther was dying. Merlin pulled the last spark of life from him and pesky Morgana emerged 1st...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @MsHighbury: @SheKicksdotnet I'm going to the Arsenal ladies v Everton tonight, I'm nervous already. #FAWSL
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Am sat in the cold listening to David bowie because life is hard sometimes
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Floyd Mayweather may be a good boxer but he sure is a terrible human being.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 5th Harmony is such a waste of space for the Triple Ho Show.. Like;give it to Ed Sheeran or Selena Gomez OR even Kelly Clarkson. 5H IS TRASH
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I #StandwithKim Davis. I hope you are happy that Christians are being jailed and livelyhoods destroyed because you ignored 9th &amp; 10th Amend
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: More meta-textually, Ant-Man may be the worst movie in the Marvel Universe for gender roles. Of its... http://t.co/OrBmTSFmVu
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: David Beckham has expressed his desire to be the next James Bond. He's a good look but his acting may be a deal breaker
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: First Murray is out for the Dallas Cowboys now Felix may be questionable for the Atlanta game. Not looking good for the running backs!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So, I have to wait until the 15th for The Taken King on Xbox? This some bullshit
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Will take that result & top the group as well.   Bet Tim Howard is cursing away at us ahead of Sunday #LFC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Gonzaga kids will be beaten to death in the Blair parking lot on Saturday #betthat
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: \""men tomorrow you will have one of your hardest patrols...CIF turn in\"" lets hope i have everything
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @SpeakerRyan you mean privatizing it, oh that'll be great, an HMO worthless plastic card like Medicaid,  yea u care about the vets
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @KingOBlackheath Kane and Rooney last night.....may have been the ugliest strike partnership of all time. Horrifying
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I wish I was excited right now for Sharknado 3. But I'm not. I'll catch it later on today, or tomorrow on my DVR.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #xfactor is the xfactor now just turning into a gay talent show aimed at the gay community to increase ratings ,mostly freaks on sun night
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @JoshNorris @Rotoworld_Draft I'd be pretty mad if the Packers took Bernard in the 1st just bc, Cooper/Eifert would be better IMO.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #Vbnss Daily Digit: Exchanges lost $1 mln a day - Oct 31 - NYSE, Nasdaq, and the CBOE each lost about $1 million in ... http://t.co/k7Zh7sgC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I remember I was the only black kid in my class in 4th grade and we had a play about Bob Marley but I lost the lead role to a white girl lol
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I watched 25+ minutes of a Facebook live video hatching one of these and I regret every second. #Hatchimals #why https://t.co/wyjloH9XAa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MooreStu Only if they lose the NFC Championship like last season.. fucking overtime. We get to redeem ourselves tomorrow though :)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bullshit! That would then mean you'd piss off Messi. Then have to pay him more too.  https://t.co/MeABTj2Bvx
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I thought I had enough strength for the Hannibal finale. Tomorrow is lost.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 1st time i drove stick ever  i kinda lied to the salesman at AB Honda that i can drive standard and took the 5 speed manual for a #TestDrive
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Teen Mom 2 comes back Monday. Still not as good as the first teen mom tho...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If these runway renovations at the airport prevent me from seeing Taylor Swift on Monday, Bad Blood will have a new meaning.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ryan Braun failed me Friday, failed me Saturday... I went back to him today &amp; he came through.  Short term memory is key in #MLB #DFS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Take note: Putting stylus back in Galaxy Note 5 may break the phone  Read more at: http://t.co/sqUXfe43X5 http://t.co/U1VdH7msKh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Also, I see Dustin Johnson is leading after the 1st round of a major again. So he's gonna choke on the weekend again? #boring
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @TygerWDR @DoubleAgentGuy Geeky yeah, but it wasn't great for dancing :-( In that regard @DJ_Recca is the gold standard.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: No blues starting for England! Sound for Saturday, Chelsea are getting fucked and Jose knows it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @AmazonHelp You may please check my pending complaint with Amazon for which I write many emails and called customer care.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank Ocean's new album is rumored to drop tomorrow and I hope it does, but I know it's not gonna happen
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: David Price gets first loss with Blue Jays despite fine effort Monday http://t.co/E74NM9i2Gh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Murray misses a good chance to break at the start of the 4th. Sloppy along with a brilliant shot from Anderson denies the break. #USOpen
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Them as wish to know more about Christians and other persecuted minorities in unhappy lands. http://t.co/hJrQEfakrR
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Got caught up on sat&amp;sun's paper. Pretty upset that the Lexington Herald-Leader put a Go Set a Watchman spoiler on the front page.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Amazon Prime Day Disappoints Some Shoppers: Amazon Prime Day promised 24 hours with "more deals than Black Fri... http://t.co/IC2k72pSXV
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: well...i wanted to go to the black forest tomorrow and take pics of the leaves. now i'll have to take pics of the snow. #thanksweather
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This is even more depressing than the Apple event. https://t.co/K7FxFYrT2z
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I thought UK gays were the reason we had to deal with Sam Smith in the first place, but most of you are shitting on him. Happy Tuesday!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I have Physics revision for tomorrow but merr, I'm going to fail anyway
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank Gifford died this morning; he would have turned 85 next Sunday: http://t.co/YYbGTAlKMa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Droid Bionic pops up on Motorola site, looks set for September 8 release: Between the leaked ads, blurry photos ... http://t.co/zw6xC19
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i hope justin's concert thursday gets cancelled bc of the thunder storm thats supposed to happen
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Not here in the East:( though...Moon, Jupiter, Capella light up evening sky on November 1 | Tonight | EarthSky http://t.co/Hv7KPxpa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nurgh, there's a stack of new MTA's that need to be dealt with but I just can't be dealing with the crappy new URL thing today D:
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: .@tedcruz comes out swinging at Planned Parenthood re videos. Says on 1st day in office he wld instruct DOJ to investigate @PPact.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #DragMeDownMusicVideo  trying to imagine the video but can't just thinking that tomorrow I'll see there  first music video without Zayn ...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Distin's derby disappointment: Sylvain Distin has voiced his frustration at taking just a point from Sunday's Mersey... http://t.co/Fob4ZxLR
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm at my follow limit. Rude. I will go on my iPad tomorrow and unfollow all the little bitches who ain't following back. K, bye.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Mao's cult may have no place in China's future: As tension increased on the border with India in the early 1960'... http://t.co/ebPytToX
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sad to hear one of my boyhood heroes #NYGiants NFL HOF member &amp; Monday Night Football original Frank Gifford has passed to the Great Beyond
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @iJustinAriana aww :/ im pissed cause i cant download Unbroken on youtube anymore sigh, and im also going to the cinema tomorrow :D
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching old episodes of The West Wing & realize Martin Sheen has more experience to run the US than our president-elect.#StillWithHer
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @WPBF25News: The Morning Note: Crocodiles, High-School Dropouts & Madonna: Wake up and smell the Internet, people. Here's wha... http ...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @sherbetgal We couldn't make it to Jan though edd is 4 Jan! I'm a feb kid & if it coincides with the CNY, I only get 1 ang bao! BAH!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Well Jokes apart, today or tomorrow Yakub has to meet with with 72 Hoors. S
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You know, the @ChrisEvans @lenadunham @frankieboyle @chelseahandler of the world @billmaher u piss me off, but u ok https://t.co/hXpXf8YCCc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #pause I bet the clippers are gonna get in the Lakers ass Friday (today)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Just seen hat somebody tried to sell a baby today -- George Osborne will be charging VAT on them next - at least on the 3rd one
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @TheXFactor Boring #XFACTOR. Seen it all before #XFACTOR. @ITV1 Let's have something new for Autumn and no more Dancing on Ice in January.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @fakedansavage: I'm old enough to remember when we all pretty much agreed that Nazis were the bad guys.https://t.co/689ge5adxs
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If you support this, history will remember you exactly as you are- Deplorables & Irredeemables.  He'll get you, too. https://t.co/dCIgAsfFek
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Jonathan Clary's blocked punt sets up Mike Longo's 3-yard TD run and Laguna Hills cuts Dana Hills lead to 20-17 with 9:38 left in 3rd
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: May Allah make David Cameron The taghoot disabled and give him cancer in his brain. Ameen.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If we had democracy, maybe we'd respect it. Russians, Comey, media all anti-democracy. #NotMyPresElect https://t.co/AszwgXcgaz
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Microsoft you may want to fix this... http://t.co/pxg1yPddcm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: We should start bulldozing all the mosques in the US and Europe until Islam changes it's behavior. https://t.co/juBW5jBan5
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ShounenStrawHat it's a disgrace that the game came out in japan on 28th March smh,naruto games come out within a week worldwide
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching the news about sandy.. makes my problem seem so small. Yet I had a headache all day. =\ on another note tom is my friday!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kenya Powerites, may all thy respective spouses cheat on thee for denying me a rerun of the El Classico.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MyBeautyisBrown LMFAO his big ass get on my nerves, you going to class tomorrow?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Having a really hard time processing that Connor Howell sat on the Curtis side at the game last night.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Upset alert in ACC men's soccer: #1 Maryland down 4-2 to Wake Forest late in the 2nd...AND down a man after an earlier red card.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John 3:16 meaning: 3rd and 16th letters are C and P, for child porn, and the guy's name is John. he's recruiting at the game.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Indians open with Red Sox &amp; don't get the extra few days in April so the weather can improve. That's bad news for the Tribe.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @CNNPolitics @GOP Reset the criteria - make it FAIR.  Let Carly  Fiorina debate on "Main Stage" on September 16th #Carly2016 @CarlyFiorina
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Unfollowing anyone tweeting about Sharknado, may god have mercy on yr soul
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I haven't talked to you since July 19 th and all you can say is \"So do you like Beyonce's new cd\" GTFO
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm so stressed out that I want to puke. Anatomy practical tomorrow, chem exam friday and also a speech.. #shootmenow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Yoga before the sun is up. Hopefully I can get this going everyday. I'm too much of a night owl for this shit
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @LilMissPrepper @tjemery1 I see. Well, illegal is illegal. On Muslims, you may have meant Islamic extremists. But I make assumptions.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nintendo Chief Satoru Iwata Dies At 55
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @microsoft using Office 2013's Bing dictionary. type in "bound." This is the 3rd picture they show me. WTF?... http://t.co/VzwGIoLxco
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Josh Hamilton rejoined the Rangers n an effort to overcome his struggle w/ addiction. Angels fans just booed him in 1st game back. #pathetic
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: ¡Gobble gobble, idiot hookers! #Thanksgiving #ScreamQueens https://t.co/YAeWAZDLnQ
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My Dad may listen to Snoop Dogg, and 50 Cent now but thank GOD he raised me on good music before this mid-life music crisis
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Oh goodness, Rick Santorum will be in town tomorrow to kick off early voting. North Carolina, a gentle reminder, you're better than this.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The lady next to me on this flight is playing with her galaxy note 7 and I'm slightly terrified lol
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: https://t.co/OyOrTUv9jMGood morning, sluts. #ScreamQueens
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Paul McCartney is coming to Buffalo October 22!  Guess who is going to be out of town that week........me #fuck
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm missing VCU's 1st scrimmage against VUU to study for an exam. Apparently #Havoc is here: 53-13 VCU up in just the 1st qtr. #damn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Niall is wearing the leg brace on stage. He may be injured and from the looks of it, no jumping for tonight! :( #OTRAMontreal
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You broke asses better donate tomorrow if you go to Ihop and leave me a tip
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @OpposingViews I hear it may only be 15. Rick Perry is having trouble finding a ride to the venue.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'd play that Iron Maiden video game but it looks like it may contain some offensive damsel in distress tropes
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tomorrow morning my bike community, KGB, will exercise #RoadBiking on Sudirman Road but I'm not going because I have to go to Church
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @JohnLegere my T-mobile experience has been he'll since I switched in April... Do you care? I have to call every month... #tmobilesucks
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Come ON, Electoral College, fix this on December 19th - go rogue! https://t.co/aPbeFNcdyY
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I hate you Kanye West and if you become president u may be assassinated, I hope
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: A district with links to Madrid's and Charlie Hebdo's terrorist attacks. A good take on it:  https://t.co/exlNRlkFRz https://t.co/xEfULg0849
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: cc @blackrepublican Just a note about one troll. https://t.co/CkfedDfV9M
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If they play New Born tomorrow instead of SS I will throw one of the mouldy donuts in the flat at Bellamy and his shitey roulette wheel
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: We will explain the true cause of the London riots on the front page of The Sun : immigrants. 'Hero Police' will also get a headline.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: \""Harry Styles is leaving One Direction and going to form a two-man band with Ed on the 31st of February.\"" and I'm married to Obama
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Thank you for thinking about abortion.In this scene, "Thank you" is not good. I'm sorry, oh...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: we are in dangerous days, when the far right wing gains such a prominent and powerful position:  "...“Many of... https://t.co/rfHr4QfMBC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @BigBrotherBossy @BBTEAMCALEB It's the 2nd time. He blocked me from his 2nd temp account regarding Caitlyn Jenner. http://t.co/97Uhg6XEQl
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @petestavros @megynkelly we all have "personal life's" with a story to tell! I dislike her fake emotions & attitude https://t.co/eXR2zGLkDK
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Gavin Henson looks set to miss the Rugby World Cup after dislocating a bone in his right wrist yesterday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I 'flew' around the neighborhood I grew up in on Google Earth VR and now all my childhood memories are distorted.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: And I'm still so confused about Kanye West speech from Sunday lol.....
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Great, my cables have now been bumped from being delivered today to friday. Thanks Amazon Prime, really feeling the worth here.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You may spend more time in the washroom than a Rousey fight after eating this https://t.co/qSLVqvvSvh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I just want to watch Friday with every human that I can't stand. Just so Ice Cube and Chris Tucker can "Bye Felicia" all you dumb bitches.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: And @Microsoft's Mail, Calendar, Music, and Video apps have been rewritten for the third time in four years... https://t.co/Rn27JuMGMP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @rtoberl A start!!  need ot deport all bad hombres fast day one. Allgans locked up or go back to El Salavador or wherever TF they are from!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Dustin_LongNJ Seriously. May as well just watch WWE at this point. At least you know it's a front. I mean Rousey vs. Holm? C'mon.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Erdogan is bringing the country to disaster. Hope Turkish voters will be able to disavow his crazy policies on 1 Nov. http://t.co/fhcnJMnqoG
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Would you believe CNN wsnts to deny Carly Fiorina a spot in the ma8n September 16th 'debate.' Very wrong and stupid
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @redfoster Sorry Red, I'd normally love to but I can't.  I'll be locked in the office Saturday and Sunday except for the Pacers game.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: DTN USA: Charlie Sheen's 'winning' ways get roasted: He may have looked like he was \"winning,\" but actor C... http://t.co/U9qioaI
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 1st time I bring my phone to Harold Washington & it goes off! :/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: .Animal testing is abhorrent and breeds the contempt for the feelings of others to the extreme #CambridgeKillers https://t.co/MtG9bMHuVF
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: To whom this may concern:  Please get your shit together before you talk about somebody else   Love, Paris
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Damnit Amazon! When you say you're going to ship something on the 8th, I expect it to ship on the 8th!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The new Bruno Mars song is wicked. It sounds like a cross between the Police and Michael Jackson. I may or may not play it 14 times/day..!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @guardian Boko Haram fighters slit the throats of 10 fishermen in Africa on Thursday; no mention from you.  Jericho OK though so happy days
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kanye West running for President with Kim K as the First Lady may be one of the worst ideas I've ever heard in my entire life.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: A few Sandusky costumes may have been in poor taste today, but the Old Joe Pa statue in Happy Valley was legit. http://t.co/Pm8ZZDYz
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @cnnbrk I know you limousine liberals love him. We hate him. JFK should've provided air support during the Bay of Pigs invasion.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Finally saw the Galaxy Foams in person on saturday... Let's just say <<<<<< SMMFH Ugly ass shoes!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Finally broke down and got Amazon Prime and the delivery on my 1st purchase as a member is late. @amazon I was expecting better.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Guy at T-mobile: ok so just call the store tomorrow and ask for me so we can set up the phone! Me the next day: what the fuck was his name.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I just realized that Thalia is going to be tortured tomorrow for an hour lmao
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 2nd track on the new Iron Maiden has some cowbell. Iron Maiden should not use cowbell. Ever.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The GOP's greatest crime? @pwire: Boehner proposes Obama speech be on the same night as NFL opening night...  http://t.co/aS8DBGS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I like T-Mobile but this upgrade having spazzed is making me uneasy. I'll ride it out for now, but another incident may make me switch.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @HockeyyInsiderr \"" @OilersNow: Gagner's agent says talks continue, will have hearing on Friday if no deal\"" MSM just proved you're #clueless!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I say it every monday wen i watch raw n ill say it again i HATE seth rollins
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: B texted me and told me that she &amp; her mom went to see Magic Mike XXL (she loved the 1st one) and she hated it.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @bruhitszach @thetimmyconnors @rudanc @ItsNickBean @edtertaining sorry I cant go to Digi tomorrow, I really want to.. ill never meet you all
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ghost Rider 2 sucks compared to the 1st, my mom Ash are looking at it and I told them the same haha.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: C.J. Cron has dropped a popup, booted a grounder, and broken up David Price's no-hitter in the 5th with a double #Angels
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching this episode of #ScreamQueens when I'm haemophobic is so torturous. So much blood 😢😢😢
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank Ocean may be the most inconsiderate artist of this generation.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Driving from Milan to Lake Como tomorrow. Positively shitting it that I will go the wrong way round a roundabout.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @lhommegirl @arzE fukkin loser it's totally abt Mariah Carey however studies show now she may be one-upped by u
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @jtrojnar227 @gdisano55 that may lower his rank in the mcgeezers he will go down to the D league
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Disappointed the Knicks vs Nets game got canceled tonight, but I'm even more hyped for Knicks vs Heat on Friday!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Just put the TV on, see George Osborne. My Sunday is ruined. #marr
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sure! Carson could do the job worse than anyone! More controversy means more eyeballs! https://t.co/pl9m4wN4Df
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Absolutely gutted. Wish I could watch RT @680News Lloyd Robertson set to end 41year run as national news anchor tonight http://t.co/rFuwYds
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: They better take Joe Pa to the Pet Semetary... They may never win agdin
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Line of the day: "Rick Perry has the mental aptitude of two dogs in an overcoat" http://t.co/5r5sDTNzyo
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @petestavros @megynkelly you obviously don't watch her show! I like FOX so I watch I don't like her show!To phony f… https://t.co/8ogyS2RDJ6
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If you're seeing the weekend instead of Paul McCartney at lolla Friday I am judging the fuck out of you.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @itssabrinagable some acc on twitter which is now suspended claimed tht he'll be killing harry on aug 5 at metlife
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I was sat with my auntie who has seen Michael Jackson live &amp; I had to watch a shitty Bruno Mars tribute try to sing Billie Jean
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 'It just fell out of the womb': 9th sting video shows how Planned Parenthood easily gets intact foetuses from ... http://t.co/02mcvRi91h
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Netanyahu's new alliance with Lieberman may  not mean an automatic win in the election. http://t.co/wwel4FfJ
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #DrainTheSwamp can start easily with cutting off this vicious snake #NeverRomney https://t.co/HNAVPbwN9x
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #itweetFEEDS Poor girl. Katy Perry may be one of the world's top pop stars, but that doesn't ... http://t.co/tsmM4Hp9e8 #ff @itweetFEEDS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Meanwhile the amateur Paul Dunne has had an epic 4 stroke collapse on the final day of the #BritishOpen. from share of lead to tied for 18th
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: hmmm the pope may have pushed it too far this time...........
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nah. 1st Hulk Hogan is an open bigot, 2nd Meek Mill trashed the Undertaker music, and now another legend has died. https://t.co/I9C3ZiBbWa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm pisseeedddd that I missed Kid Cudi's show in Dallas, it was trending worldwide that night, &all Im hearing is positive reviews of lolla
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: On another note, it seems Greek PM Tsipras married Angela Merkel to Francois Hollande on Sunday #happilyeverafter http://t.co/gTKDxivf79
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I swear to god if I miss Chris Brown this Thursday, I'm going to be so mad at the whole entire world &amp; idgaf.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Can't sleep...watching Stevie TV for the 4th time tonight @stevieryan
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This weekend on the Fair &amp; Balanced network, Fox News Sunday's guests are crazy conservative Rick Perry and nutty conservative John Kasich.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hopeful this day goes by quick. 😏 #NationalFastFoodDay
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @NiallOfficial zayn left on the 25th, school starts on the 25th, the 25th is just not a good day
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MrsAnneTwist the last time they hit Niall's injured knee, this time Harry's head! They may really hurt them! This NEEDS to stop!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Oh God can ABC be more obvious? They keep touting Taylor as 1st female to win EOTY 3x in commercials. Give it away much? Vomiting.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @DDoughtyOnAir @SoBoTucker However, he has confirmed breaking a chair in the Duke pressbox, 2nd such destruction at a Duke sporting event.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Day 6 - Most annoying character : Ashley Graham (Resident Evil 4) https://t.co/LdPzKvh04v
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tiger Woods won't win and thankfully this will be the last time we see him til October
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Refuse to admit that it's 3rd year. Bring on my Groundhog Day
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: At some point tomorrow morning/afternoon, the #NHL will can the Winter Classic, and effectively the entire season. Is it March Madness yet?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It is so hard to buy Paul McCartney tickets for when he comes to Buffalo in October. :/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @iowahawkblog @jpodhoretz I went to Texas A&amp;M but oddly never met Rick Perry.  I think he may have spent that year in Pakistan.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hulk Hogan. More like Bulk Fooligan. Some folks never know when it's time to leave the room. He's had his day in the sun. Time to go away!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I would have enjoyed Edge of Tomorrow more if Tom Cruise had to start each day by re-spawning in the bathroom of a Bubba Gump Shrimp.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hannibal's 3rd season feels like it became more and more a parody of itself.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I met Harry, Liam and Niall on 26 March, the day right after Zayn announced he's leaving, the boys looked heartbroken #5monthswithoutzayn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If Anderson Silva doesnt win tonight Yushin Okami wont make it out of Brazil alive @ufc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @JonFeere @JohnRiversToo @WSJ I am sure they can find it hidden in the 14th Ammendment next to gay marriage &amp; so-to-be-legalized pedophillia
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @seanhannity    We live in the Jersey shore area. No power since Mon. Disgusted with the response of disaster!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: just bought my 1st Heineken beer in Las Vegas.  ps I've lived here for 5 yrs ~what took me so long! http://t.co/WxVoBdek
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bobby Jindal's goofy J looks like a patriotic bubble pipe I'd use as a kid on the Fourth of July. #GOPClownCar https://t.co/0DTH9WDrRG
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ZuckermanCSN I hope someone asks Harper why the team bailed in the 7th inning
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Nothing to do with importing Muslims &amp; Mexicans or dumbing down kids by liberals. Move on.  http://t.co/2x8ii0o0JF http://t.co/t4EGiSv8BK
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @OlafWipper @scoutinfinity @politicususa  @elizabethforma possibly utilize the Boston Globe Spotlight team for investigation !!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Everytime I reread/re watch Game of Thrones, Ned Starks death at the end of the 1st book/season is the most depressing. #GoT
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hello there, I hear that the stinking working class,were rioting in London last night, do you see why I'm in Italy, bloody Rif Raf.Hear Hear
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I think on some day's may the spirt of Kurt Cobain be with me so I dont  bitch slap everyone
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I haven't bought my kit and NCS is tomorrow. My frame of mind right now is just #leaveityeah
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: im moving back to houston on the 9th, i can live here nomore ! MONROE to fcked up!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #YEMENPro-#AQAP #INFOGRAPHIC Claims 13 Belt Forces Vehicles Destroyed (10 Land Cruisers,2 Armored,1 Ford) In & Ar… https://t.co/Xn1NAV6KRO
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Express bus to downtown Fort Lauderdale may be cut: It looks like the end of the road for express bus s... http://t.co/esitgJFLtE Google
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Joannahausmann We now wait for Maduro's turn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Shammi Kapoor funeral on Monday as tirbutes pour in - Channel NewsAsia: Known as the Elvis Presley... http://t.co/tMzavco #ElvisPresley
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #bloomberg Rick Perry May Not Have an Exit Strategy - New campaign-finance rules may block the normal winnowing pr... http://t.co/SUY4Dy9VKc
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: These past two days my calls and text been acting up, T-Mobile is going to get a call from me tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Needed the loo since Bethnal Green... Now the other side of Romford This suit might be getting dry cleaned tomorrow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Open source misconceptions fading: IT Web: South Africa may be up to five years behind the rest of the world in ... http://t.co/nYfW52Nf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @jordanschuster5 I'm sick with something ill be at school on Monday though
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Okay, so Paper Towns. Super super uncomfortable with the black character wearing a confederate flag shirt. It may have been in the book, but
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I totally forgot Justin Biebers is going to Dallas tomorrow *Loads Up The Ak*
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @dannyjpalmer Had it worse. Sat through a 2 hour train with young teenage girls singing One Direction and Ed Sheeran songs.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @sav_leighh I'm going to VCU tomorrow! And you didn't come see me? :(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: New Topic: Heavy metal, Thor, Viking cosplay considered "racist": This may be better suited for the political ... https://t.co/QPGAdhnOaN
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank ocean is like Monday and the weeknd is like Friday nobody wants Monday's. @ruedejvgga
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fireworks go on sale tomorrow. I'm sorry, but after experiencing Independence Day in the States, NZ fireworks can't impress me at all.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tom Brady may actually be a monster off the field. https://t.co/0VZBHbrFkm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Its sick how they show Ice Cube writing Friday the film during straight outa Compton init
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It seems that Vitor Belfort wasn't happy about taking a back-seat to Conor McGregor on Friday http://t.co/P2QqX4ZX4B http://t.co/dlj56kBuYz
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If anyone comes to school with the Galaxy Foams tomorrow , I'm mugging them .
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Who's on First? 1st down & goal or Ready, Set, Debate? Who is big ratings winner tonight?  - sadly The Bachelor would probably beat all
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I swear if tomorrow any Niner fans start tweeting about Kyle Williams tomorrow, best believe I'm gonna put you on check.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Chris_Hawkey come on bud... Those pants looked like the ones that hobo clowns wear. That guy was Ricky Martin singing sped up country songs
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Who all fuckin with twilight tonight ??
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Everyone's excited for Paper Towns releasing tomorrow but take it from me the movie was absolutely horrible
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: \"Big Brother may be watching you right now, and you may never know. #Surveillance is the new normal\" http://t.co/ZKKyVxOf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hit me midway through the day that today isn't just 30th aniv of me being an Arsenal fan: also exactly 6mths since we beat Utd &amp; my dad died
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Saw a Real Madrid fan boast "We made the top 3 in La Liga, United fought for 4th #LOL" there's only 3 teams in La Liga fuck face.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm sorry, but Randy Orton is the most plain wrestler on the roster. He does nothing for me in the main event spot. 2nd is Sheamus.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MikeWolf1980 @Microsoft I will be downgrading and let #Windows10 be out for almost the 1st yr b4 trying it again. #Windows10fail
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: About as much interest in today as I do in the Rugby World Cup. #zero
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Red Cross halts most Pakistan aid after beheading: The International Committee of the Red Cross  said on Tuesday... http://t.co/NyZ7fj7t
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Damn near thinking about selling my ticket to Chris Brown show on the 19th
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ @Microsoft  3rd time my Lumia handset submitted in service Centre in last 8 Months, No one is looking into it. Need replacement of my 930
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: anne is literally going to see taylor swift on friday. with my entire family. without me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Kingmonkey70 It seems right back is a problem at the minute. Shotton was awful on tuesday.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Java was dead the day Sun died. I'm surprised so many tolerate(d) the bullshit Oracle community https://t.co/l8sz8xs4rQ
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Just heard Green Day's 'Time of our life' for the 1st time since leaving florida and i burst into tears. I miss everyone so much xxx
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @alicektg @SineadStubbins I'll look for it next time I'm in Myer! The animal testing thing shits me up the wall. Just say no to China, FFS.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Get me Valentine's Day hearts for Feb. 14 and I'm taking it as a sign you're breaking up with me. Love won't make you eat those things.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @_JustAnother1 smh I'm just waiting on the black ppl to cuss me out tomorrow about Denzel lol NIGGAS!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: just walked past a girl throwing her guts up outside a bus stop... average Monday night in Shotton.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The stress of the last hour makes me want to cry into my couch while listening to Taylor Swift....Until I have to do it all again tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Last week Brock Lesnar attacked a car with an axe. Tomorrow @JimmyHavoc is going to attack a human with an axe... RIP Will Ospreay.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Failing IBM services ruining my Saturday. 10 minute test going on almost 3 hours now. And I am mildly hungover and tired...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The growth of gerontocracy: George Osborne's assault on the young. @NickCohen4  http://t.co/722tfJelDt
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Frank Ocean is one of the last acts at FYF on Saturday and if he dips out I swear I'm going to riot
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Just realized that on my 18th bday everyone will be like hashtag 1 year since Zayn left and I'll just be sitting in my room crying like tf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Why are Niall and Camila even trending?? I bet Directioners are just really bored!! GO STUDY!! YOU HAVE SCHOOL ON MONDAY!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I really wish I was going to Ed Sheeran this Saturday :'(((
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Sophie__sophs @channel5_tv Agree! I watch with my mum and it's our monday night show, that's not gonna happen anymore!All bc of Big Brother
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I've been at the beach since Friday and I still haven't listened to  Zac Brown Band. What is wrong with me??
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: wow there's two @onedirection just put the previews on iTunes already they'll all be leaked by Monday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Boogie2988 although it'd be extra nice is Maduro (president of Venezuela, where i live) could be included in that pack with Fidel
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: To all Trumpsters...need a job? Contact the #TrumpTransitionTeam! #RotsaRuck!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 1st 5-star review. Colour of Lemon sets off like a bullet train with the gruesome murder of one of Sowerbutt's own.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Planned Parenthood admits it manipulates rules on fetal organ sales to maximize profit - Washington Times http://t.co/t9QC4TgYxt
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Homegrown talent missing on Signing Day: Throughout most of the day on Wednesday, the video scoreboard ... http://t.co/6dZ2hQkD #Raleigh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I told someone about how I once sat on the floor of my hotel room and watched Seinfeld for hours and they threatened to punch me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If you're having a good day just remember that Teen Wolf isn't on tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Currently sweating more than Brock Lesnar, house feels like the sun
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bio on Monday but I'm reading this instead, well bio and Batman both start with b!! http://t.co/yOP4XfhoKF
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This is as brutal of a loss as it gets. Up 6-0 then up 2 with 2 outs in the 9th only to blow it. It's going to be a very long winter in WSH.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Google Wallet is coming to MetroPCS, so now you won't need to sign a contract to have your identity stolen. More jokes: http://t.co/oyPF2YTw
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: When Sunday Oliseh said there won't be a playing philosophy for the the Super Eagles, I feared.  My fears were on display yesterday.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ni**as In Paris encore, 2 mosh pits, it's too far away to see B, but the 2nd pit failed because of B's security! http://t.co/wEobbqXP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @badaxx_yella @fAY_PRiSSY @Pretty_tee1992 Whoever it is done pissed Ying and Yang off for the day, I just pray they make up by Friday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @cheringbiebs MY BIRTHDAY ON FEBRUARY. My friends think it's for Valentine's day but I don't believe so. :(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Happy Thanksgiving to all the bad hombres and nasty women. https://t.co/RIcH11DmmJ https://t.co/aRbQrXECvM
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'd say this makes me think of Sarah Palin's "I can see Russia" moment, but that's basically the whole GOP. http://t.co/NQZHF46Pbg
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's fucking Friday! So it's only right to bump \""Friday\"" by Flatbush Zombies at ignorant levels
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @WMoulthrope @katalin_pota @BasemntDwllng @SenWarren2020 @elizabethforma @SenatorWarren Wait & See, but NEVER #CROOKEDHillary!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Somebody tweeted "frank ocean new album" with a link, my dumb ass clicked on the link &amp; it was a link to lil bow wow 1st album. So fuck you!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: just watched \""Project X\"" for the 1st time, im unamazed.. y'all hyped it WAY PAST what it was..
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @InstaRevealedOntario #Liberals #Premier #KathleenWynne helped #AG @M_Meilleur escape her #FailureOfDuties! via https://t.co/hgrrNeyw1x
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I was watching Ex-ministries videos today and found out some shocking news about Michael Jackson!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Obama's free trade agreement with the cartels. He exports guns and imports drugs using our money to do it http://t.co/qOOn4HQ #Teaparty #2nd
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I used to have the dopest bob Marley shirt for tomorrow but now it's gone:`(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Zayn deleted his Instagram and the last time he tweeted was the 18th of August this is hell http://t.co/FGgI7ny65N
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 'America's Got Talent' semifinals begin Tuesday: We want different singers than American Idol and X Factor, said... http://t.co/7yLcFzO
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Surprising end to a Gauntlet Match between Brock Lesnar and the three weakest members of the RAW Roster in WWE 2k14. He lost to the 2nd man.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's time to denounce fake news!And while we're at it, maybe we can stop referring to Michael Moore movies as documentaries.Sound good?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I just need to chill. Can't wait to unleash some aggression at Black Dahlia Murder tomorrow. #GonnaEndALife
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I told my dad I may vote for Bernie Sanders this election &amp; he's literally giving me the silent treatment LOL HEADASS #butthurtaf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #BlackLivesMatter #potus #HillaryClinton You called for this. Getting what you chanted for. Disgraceful! You have i… https://t.co/fSPL5yyNDA
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This is not good - Scott Walker wants to fire academics with whom he disagrees politically http://t.co/fHXnb09F3K
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Man just watched the Lakers highlight from yesterday and there going to get destroyed tomorrow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John Cena got screwed! 1st the ref got knocked out then John Stewart comes out with a chair. Disgrace! #TitleForTitle #Cenation #SummerSlam
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Wichita St. with 3 errors in 2 innings. I imagine veteran coach Gene Stephenson is boiling in the dugout. MSU lead 6-0, bottom 2nd.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So can't believe Big Bang is tomorrow, this day came way too soon! At least I can live it again Sat.night!! ^_^
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: ordered my back pack off of Amazon 3 weeks ago and it turns out they lost my package and school starts tomorrow #sick
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @chris58110 oh, it depends on how many people are pissing me off and the level of rage I reach! Last time was Friday night, about UKIP...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: We may as well be part of China the day Kanye West gets to the White House.  https://t.co/QROep9hQnS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Carly Fiorina is in danger of missing the top 10 debate AGAIN: CNN criteria: 12th place, 1.9%. Post first-debate polls: 7th place, 5.0%.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Everytime my mom calls me I answer with "Thank you for calling Planned Parenthood, this is Karen how may I help you abort your child today?"
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sharknado 3 comes on tonight. Yes, a movie about a shark tornado has made it to a 3rd movie, and yes, I too have lost all faith in humanity.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Channel4 whoever is narrating the trailer for #thisisus should be sacked!  Silly c*w thinks saying 'thizizuz' is perhaps alluring! Wrong!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Damn I have to wait til' tomorrow before I know if I can go to Oslo with my sis. Damn. I'm not good at waiting
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: That's one sex tape I hope to NEVER see!  Is Hulk Hogan a racist? Find out what @PeachesNCreamSF has to say about it http://t.co/1Bv5hkss8I
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Time for James Harden (34 Points) to step aside and let Jeremy Lin Takeover the 4th #Linsanity #Sarcasm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's a busy Monday. Dangerously hot. NFL legend Frank Gifford dies, and more violence in Ferguson, Mo. We are on the air now. #WakeUpWith11
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's been a hard year: in addition to losing Leonard Cohen and David Bowie in 2016, Californians also lost Peter Tosh's "Legalize It". RIP!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @LibtardKiller #isis and #BlackLivesMatter beware. It's now legal for #americans to protect themselves in this… https://t.co/ib6c37mPiC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #Fires around #Jerusalem! #Terror Molotov cocktail  the cause. 20 aircraft  operating. Friends in #Nataf evacuated.… https://t.co/UyIH1QS6pT
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #Jays starter David Price suffers 1st ever loss at Toronto- had been 8-0 (1 W as a Jay) with 3.54 ERA, 60 K, 16 BB in 73.2 IP over 11 starts
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @dorcov YUP. And did you watch Degrassi from friday yet? looool awkward campbell
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: C'mon Rebels, put an apple in the pigs mouth!!!   Red Wolves fans focus all of your hate & anger at the pigs tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: fuck i want to go into the city tomorrow. deGROM and Thor are gonna be at macys
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #MAGA! https://t.co/pOkfg5r9TI In North Korea you get punished for criticizing Kim Jong-un : on Reddit, you get banned for criticizing Mods
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ChrisDalek @janeellen aaaah. Nokia used to make the Best Phone Cameras Ever.  Sadly I think those days may be past.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Toni Gonzaga will be in Legazpi on October 30. Huhuhuhu. I wanna cry i want to come but how? I dont have money. Waaaah @ToniGfanpage
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 60 Mile cycle ride today. Been sat on that seat for so long my arse feels like its been spiked with Rohypnol by a Redneck #ouch
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching a replay of the PSG / Lille match from Friday. No Zlatan makes PSG unwatchable.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This Sunday New York Giants are going down. #Steelers
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @StephenNolan I'll be glad to see Peter Robinson resign he will be remember as one of the  traitors who has sat in govt with the IRA...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I hate Mikey and Vanessa . I hope tomorrow at the movies they run out of tickets and they have to walk all the way back home .
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Angela Merkel, explaining to a crying child that Germany might just deport her. http://t.co/56aTBHvIUR http://t.co/yxtjaitzSO
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Stayed up late to watch Jurassic World and I just remembered I have a football match tomorrow morning :/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i read the first line and thought it was from melania's speech https://t.co/Qy2jF5xy0K
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I madr noprogress my lfe is going downhill actually Kpop ruined the world everything will dje the sun will explodeand Bush will confirm 9/11
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The LAST thing we need is more corn and more Monsanto.  2nd last paragraph says it all.   "Monsanto is hot for corn" http://t.co/9RBCywtWt4
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i thought yall liberals are supposed to love everyone? oh wait.. we don't agree with you so it's okay #hypocrites https://t.co/rykuBqYNMV
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @nanjmay6478 I used to really like Rick Perry, just has become so bitter. He may be very sad. He should try to smile http://t.co/pPkwJi5r7C
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kanye West really may be the most ignorant human walking the earth lol
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Boehner tells Obama that sorry, the House is all booked up for Sept 7, maybe you can come another day... http://j.mp/qaXCPV
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I don't have the patience to wait till January for a new Jennifer Aniston movie
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: There is a certain cult classic game, the 3rd in its series, that we have been waiting for in the US but Nintendo refuses to release it
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Magic Mike XXL is probably the single cringiest film I've ever sat through at the cinema.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I think my yoga teacher hates me cuz on the 1st day I refused to take off my socks and then today he made me do this: http://t.co/8vWSyVCqms
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: True religion? I give fk to any and Islam comes 1st in the q @muhdfaizanmir
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @IndusSpirit It seems even Nobel prize is for sale. Amartya Sen then and Bob Dylan  now
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You know you're doing it right when SJWs and alt-rightists find you equally irritating.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: . @GenFlynn retweets anti-Semitic remark https://t.co/Ga1p6m1cqQ https://t.co/rU4H5Ku9RP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Rolling Stone ranks the Bonds http://t.co/RsJsrwHRiV sooo much wrong with this list but Die Another Day 10th? REALLY?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dunkin' Donuts, you were such a huge disappointment to my taste buds that I had to walk over to a nearby Taco Bell to get a 2nd breakfast.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tom Brady's suspension got tossed &amp; all the fans from our 1st 4 games tucked the shit-talking in for a nice nap
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: If Volstead went against #Braves on a Monday, he'd give up 5 runs in first, then cubs make a furious rally late to win #twostreaks
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Really not a good thing in the current regional context. Erdogan's playing with fire https://t.co/mYHPFkUY7p
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Team Rita, oh you fancy huh?  2nd place, trophies, eatin' at the Blackwell  2nd place, trophies, eatin' at the Blackwell. Oh you fancy huh?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @GKG_77 @AppSame @DineshDSouza @DrJillStein @HillaryClinton you assume that leftists have integrity! They're Machiavellian!! Ends = means!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Trent Richardson is the bad-weather back the Cleveland Browns have long needed: Bill Livingston's Mon... http://t.co/deHRCcdj #cleveland
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 5) Don't mention the score: 'Do we want revenge? No.' - Wenger ahead of the United game on saturday http://t.co/eJLWnaNa
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @wisdom2m3 your mom cheated on your dad with bad hombres all the time. He secretly knew and kinda liked it.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sad I didn't see @Greg_Sherwood today. Do work in Nebraska man I'll see you when you get back!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @KremlinTrolls  Putin looked miserable for rest of the day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Anyone who has talked wrestling with me knows how much I hate Brock Lesnar. Seeing him at RAW on monday will be literal hell.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Few people understand names - google+ may have failed because of it.  http://t.co/dkKtuvaQiU @adamshostack http://t.co/Z65Gp2paAI
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Yup. Great quote @StefanMolyneux : "He who is w/o sin cast the 1st stone." Racist Hulk Hogan Rant...WWE, Gawker &amp; U! https://t.co/pN7SNAl2Sf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @FarrrahSage are you going to Petrolia's game tomorrow ? I still havent got to see you or the baby!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: What kind of monster plays Papa Was A Rolling Stone on the 2nd of September?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @realDonaldTrump Check the Clinton Foundation for contributions to Jill Stein!  There's your problem!  Hillary still in the game and trying
+ Actual Label: negative
+ Predicted Label: positive
+
+Text:  religious liberty is defined as religion that Bobby Jindal &amp; Huckabee approve of. Read the constitution! https://t.co/2yWw6mQGJb
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: BJP doing drama to hide facts, says minister - The government Tuesday accused the Bharatiya Janata Party (BJP) of...http://t.co/GMxmgdR9
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Machine Gun Kelly Concert On the 30th!! Me & @LSTREETZ Bout 2 shut this bitch down!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm going and actually meeting Channing Tatum tomorrow. It's all set up. Suck my dick twitter!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kris Bryant left today's game in the 5th after head first slide into 2nd. Yikes.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Thanks for the sickening update #aleppo https://t.co/grjwbKoNv2
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Unfortunately, negative. "Go time" is the opener at Prince George, 9/25. https://t.co/z0NjvFcCbs
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Gucci baggy skin below the eyes khu belief february break the seal the the two your unanalyzable now attainmen...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Tomorrow we will have to listen to 7 or 8 Scott Walker walkbacks, as usual. And the press will eat it up. What a failure all around.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Did anyone tell Dustin Johnson that winning requires a lead on the 4th day and not just the 1st day?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dang, Forrest didn't get it done. :/ He was our last American hope tonight, oh well... Now for the main event Anderson Silva vs Yushin Okami
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My soup just blew up in the microwave and exploded everywhere. So far today has been a bigger bitch than Madonna is to hydrangeas.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Thanks George Bush &amp; Tony Blair, you are both the reason for all this starting in the 1st place!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The Weeknd is releasing on the 28th but I can't even be excited because Frank Ocean ruined the whole getting excited for an album thing.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: centre for social justice report on Gangs - one year after the riots. http://t.co/A6gtlVQI #d policy may have exacerbated problems.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I won't be able to watch one direction at the apple music on the 22nd because of the sam smith concert and some things at school I'm sad
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i wanna go to digi in Houston but my mom said she refuses to give me 50 bucks.. looks like i need a job before sept 9th
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ExecuteMonsanto met to say...Monsanto KILLS everything...this may be the one time I believe in an eye for an eye, and a tooth for a tooth.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: if jenelle comes to the game tomorrow... I'll die #missherlots #itsbeentolong #mybaby
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Does @macleansmag still believe that Ms. Angela Merkel is the "real leader of the free world"?  http://t.co/isQfoIcod0 (Greeks may disagree
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: https://t.co/dkwWI1nmpT <-Hot German Milf Fucked Young Boy #tits #boob #memek #bispak  #onedirection
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I could be going to see Foo Fighters tomorrow night. But no, I just HAAD to play for church... X'D D':
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @greysonchance it's not fair, dear... #truthbetold will be available in Taiwan on 2, Nov. It's TOMORROW!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @DexterRoy527 @Orangeblood2012 @Al_Gorelioni If you read again what I posted 3 hours ago you could learn finally Trump is not my 1st choice!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @marthamaccallum 2 hell with Jeb bush with Spanish speaking We dont tell Mexico 2 speak English And I'm half Hispanic! English 1st N the USA
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: \""@DJRobBanks: Drop !t Vol. 3 Charlotte's BIGGEST BLACKLIGHT party THIS Fri. at Neighborhood Theatre!\"" Damn I wish it was in Ralz
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @DylanBuckingham @ColbyJPowell @ToddOnFranchise Tiger Woods did not play well on Sunday, wait make that all year #Tigersucks
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Gucci plurality psychic apparatus unfearfulness august sufflate the span thine joker goodwill accumulation to ...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @SpeakerRyan your like a fish ( flip flip) now your starting to smell #draintheswamp
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dandy Don, Howard and Frank are all now back together.   Frank Gifford dies at 84 years of age.  Condolences to his families.  May he RIP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ghost Rider 2 is pretty shit.. I liked the 1st one in all honesty but the 2nd is badly directed.. the shaky camera style is disorientating
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fabio Capello (Russia's head-coach) wishes Cristiano's injury was more serious. (Russia will play against Portugal tomorrow in the WCQ)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Desperately trying to stick with Game of Thrones but 4 episodes into the 1st series and I'm losing interest rapid.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sold out and took Tom Brady in fantasy. It will be first time in his career he throws a legal football so he may suck. We'll see.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: With all Benson's attention, Frankie feels like a forgotten stepchild. Lets 'founding father' him so he know we will never forget 2nd place.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @BitterOldJoe it gave the impression the whole thing is a beery deconstruction of Star Wars for adult edgelords. I may read it anyway
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #2016 is the new #1966 first #brexit then #trumpton now a crap band from #Romford have done for the Italian president #Renzi #5* #5star
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fuck SAT! ACT is where it's at! :D
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Its a travesty. Votes in swing states may have been tampered with & audit is needed 2 make sure election outcome ac… https://t.co/DrKFi2O0St
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @steelers Give Tom Brady the #crybabY and his New England Patriots their 1st loss of the season
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It's Tuesday. 8pm. I turn to ABC Family and it makes me sad to see there's no Pretty Little Liars #countingdown #jan8 #PLLfanproblems
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: its Thursday and the warmness continues to be a pain like kanye west
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Yeah it's most likely that I won't be able to go to the game tomorrow in Tucson unless I get a last minute ride..... #NoRide #Saddd
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #RejectedDecorations - Chestnuts roasting over a Galaxy Note 7@HashtagRoundup @SandmanTags
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: David Price's last two starts against the #Yankees have been horrendous. He takes the mound Saturday http://t.co/tMyF4fdVD2
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @drg1985 My "favourite" conspiracy: contraceptive pill causes genetic damage to kids so vaccines can cause autism. But homeopathy can cure!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Imma cry if Cena win the WWE Title this Sunday. There is no way he should tie Ric Flair's record for most world title reigns
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hey, can you set up Apple TV so I can watch Harry Potter while I get fucked up? --ladies and gentlemen, may I introduce you to my roomies!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: FOREST FIRES IN ISRAEL‼️ New form of forest terrorism, eye that this can easily be exported to #Europe#Terrorism… https://t.co/HNSf57NTgy
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @IvanCarterCSN billy cundiff. His missed FG at the end of the 2nd quarter changed the game. He'll never play again
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: http://t.co/5w76Pj3U52  Feels weird watching an Apple event with so much suffering going on in Syria :-/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You may think I have mono-cellular Zulu imbongis at the rate some of these folks are thrown profanity at me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Husband killer Julie McGinley lives cushy double life with former BBC producer http://t.co/UKQ3Yq7g4U
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @PERNICIOUSIERO May I also say that before you attack me for being a 'fake fan' of some sorts Nirvana , Green Day and MCR-
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 1 Shot Dead, Another Wounded Outside of South Jersey Mall On #BlackFridayhttps://t.co/m2Eby38G24… https://t.co/2V8C2BjjL3
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Rick Perry may by a vineyard and retire so he can whine all day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Falling sick on the 3rd day of Eid, missing out all the fun and joy of Eid #sad
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: got Being Human series 4 today. May just watch that tomorrow if this shitey weather continues :)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: good morning everyone except dakota access pipeline supporters
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Funny Hindu politicians talk abt India may become world Guru by colonial stature &amp; bitchy fights with Muslims, killing &amp; repressing kisans!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I googled \"coffee & its immediate response, mechanisms\" the first page that appeared \"September 11 attacks, Wiki\".. I dont see the link here
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Aftr network drop Amazon prime streaming deal for 2 more years make the show unsignable for 3rd season by anybdy but amazon.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Homework catch up day and then dinner with the \"Big Brother\" before the hurricane. I kinda need school not to happen on Monday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Microsoft @Windows Daily windows updates suck! W/ all the $$$ and drones U have working 4 U, maybe U guys could get it right the 1st time?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @WithYouRebelX I've had problems with my email and haven't received any information for Saturday's Star Wars secret cinema. Can you resend?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My suicide note would be the picture of Mark Martin that I kept in my wallet in 7th grade.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The sun look more hurt about zerries break up than zayn and Perrie
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'll put my gun where I want. I'll put it in my pants. You don't control me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I hope that guy goes all out for Valentine's Day. The fkn works. Then a few days before feb 14 he checks her phone, and sees a few messages
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @billmon1 @HeerJeet @JamesEMajure "and destroy Jeb Bush while I'm at it!" Though these same priorities may be reversed for all I know.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Steve  Just heard Green Day's 'Time of our life' for the 1st time since leaving florida and i burst into tears. I miss everyone...  Seymour
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @farhanmohamed: Last night for @CTV's Lloyd Robertson. A sad day for news, will miss that deep voice. #legendary
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: From here on out I will no longer celebrate the pagan holiday of Thursday (Thor's Day)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: An alarm on my phone still goes off every Thursday for a Jon Huntsman For President National Finance Team Call. Probably time to delete it.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This is aimed @ David Cameron - fight me. Meet me behind the bike sheds tomorrow @ 3pm sharp. B there or b square
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Last night I unfollowed anyone hating on Kanye or Nicki you may remove yourself from my life goodbye
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It seems the rest of my life may just be convincing people to watch Ant-Man with me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sharknado i can watch it now: The fuck. Sharknado budget of 1m or 2m cameos up the wazoo. Watching 2nd one now... http://t.co/eQBvs9jO9Q
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Apple Watch is a FLOP as aales of the gadget have ... http://t.co/eURFhg06GC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Paul Dunne with a birdie putt on the 12th hole and just misses it. Very unlucky. Stays in a share of the lead at -11 with Spieth #TheOpen
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John Kasich has been living in the murky middle on energy policy. His home state may force his hand soon. http://t.co/iWqc370ppH
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Off to #StolenSpaceLND to see the Shepard Fairey show I didn't get to see last Friday...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Twins lose to David Price for 4th time this season (he has a 1.16 ERA vs. Twins), fall into tie with Blue Jays for playoff spot w/ 5-1 loss.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Rock legend Neil Young rightly attacking evil Monsanto @guardianeco @ianpuddick So now he's banned from the BBC http://t.co/Tcw429b2xt
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @mtracey such a foolish thought. Santorum and Palin would start a primary challenge in March. Depends on Congress some but EO first day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @elrufai the moment after the last election I have prepared my mind for 4 years of no leadership, may God help Nigeria
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hulk Hogan has a better chance of rejoining WWE than me watching it again if Lesnar defeats Taker tomorrow #Summerslam
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Juventus had two men sent off as their dismal start to defending their Serie A title continued with defeat at Roma on Sunday.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @SappyReDevil Yakub has to be hanged and he will definitely be hanged at 7 am tomorrow morning. Birthday = death day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm sad I feel like I'm going to get bad seats tomorrow with my luck &amp; idk if z100 called the ppl for who's going to sit on stage for shawn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Only just realizing it's fucking Tuesday. Labor Day, you have messed up my streaming schedule! &gt;:O
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Firework just came on my tv and I just broke down and sat and cried, I need help okay
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sep 10th steelers ruin the Tom Brady parade  https://t.co/B5LGsl0dzI
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ha! @jimmy_dore almost made it through the 1st hour w/o making a stupid comment about Muslims or kissing Chomsky's ass - Almost! | #TYTLive
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: That moment when Taylor swift is here tomorrow and I'm not going ...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ohiomail @Reuters I saw that the other day.Maybe with more time on Monday we can get more into it.. That damn Erdogan! Hope it blows up in
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @stoney16 @JeffMossDSR I'd recommend just turning it off and waiting for Verlander tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: A 60 mile flame burning hotter than the surface of the sun!?!  Come on Sharknado, that is even ridiculous for you.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Absolutely mortified and gutted that Sam Smith may be doing the new Bond song :(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 12 Aug 2015 - one day, 3 countries (Philippines, Egypt, Afghanistan) 6 infidels murdered by Muslims  #tcot #ccot #TeaParty #tgdn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So it's official Monday is my first day. No more Matt for a long while.. Except on Tuesday's or Wednesdays:)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @BillSimmons it's gotta be Grayson Allen. Has Redick hateability and makes goofy schyer-face.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The worst part about #hhn25 being over may actually be that tonight was the last time I'll see Thor and Captain America's abs. #billandted
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Beyonce needs a new sound. You may call it hating, I'm just being real.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Let me fix that headline for you: GOP Looks To Gut Medicare.You're welcome. https://t.co/WrKhNbbJdj
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @justinlarson34 Justin, I think you got that backwards. See my Sep 3 post on Obamanomics outpacing Daugaardonomics: http://t.co/hYwRzTs4B0
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @ChaoticRollins The first and the Last crap on this planet right is you Seth Rollins and on Sunday WWE Universe will get rid of this "CRAP".
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Chris Alexander's TV meltdown on PnP last Wed. made the BBC's front page on-line. He blames media for lack of action on refugees. #cdnpoli
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Before George R. R. Martin finishes the next book, some of the Game of Thrones actors may die of natural causes. Take your time George.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sad that the new episode for Naruto on thurs is basically a filler again
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It didn't live up to the "Black Friday" hype IMO --&gt; Amazon Prime Day leads to sales surge and consumer complaints http://t.co/2QUmJYts5y
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Harris English drilled a volunteer in the head with his 1st tee shot today. Video: http://t.co/watcfRkm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: the patches] are being used to kill people with dementia, with the idea that it’s cheapest and best to get rid of… https://t.co/eN4ekV206X
+422926902998292163	positive	yo I'm excited for Royal Rumble might book that Monday off work so I can watch it
+963992029980260395	positive	Oct 2015:Meet brilliant Steve Bannon:he's much more than u think! https://t.co/YKP7FGvUU6 via @bpolitics https://t.co/bYPWQj1bLr
+433266526042966366	positive	Wayward driver puts Johnson off the PGA pace  The horn may have been a welcome sound for Dustin Johnson.  http://t.co/HB9GmCNTSr
+351788885824188120	negative	@KremlinTrolls @Independent Pretty funny. Maybe nuclear hay wagons are next? :)))
+916253390911219782	negative	very bold of CNN to show the Hulk Hogan sex tape during the GOP debate tomorrow...at least we can see disappointing dicks on 2 channels now
+841371861256059795	negative	@CalvLyfeson Except for the part where because of lack of depth we also had to play Gerrard, Suarez for a bunch, which may screw us....
+424600914223139487	positive	@TheUVAFool it may be because I'm younger, but I loved the helmet. If Nike is giving us all that money, you have to experiment a little.
+355467655523578014	positive	It filled my heart with pride to see the huge march in Oxford this afternoon. I hope David Cameron saw and heard. #RefugeesWelcome
+948231819463096098	positive	Fourth of July" by Mariah Carey is just ... *melts*
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Cardinals try to pick up the pieces against Packers: Embarrassed on Monday night, the Arizona Cardinals are left... http://t.co/ruHfUKuf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I noticed Erdogan standing in that mosque whilst the rest were kneeling. Interesting snapshot is all I'm saying. https://t.co/cIvjUS2jvQ
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: On 17th anniversary of Rabin assassination, Netanyahu calls murder 'one of the worst crimes of the new age' http://t.co/y2tU91dN
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Hey guys. I got home from holiday in Ballina and realised my webcam sucks so Minecraft will be out maybe tomorrow or the next day.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Apple Can't Innovate or Manage Supply Chain: CUPERTINO, CA - OCTOBER 04: Apple CEO Tim Cook speaks at the event introducing the new i...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: We're sat by the Thames and orally retelling Harry Potter and the Philosophers Stone. I am the worst at this game.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I hope the Steelers CRUSH Tom Brady on Thursday. Damn cheater.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm always thinking that The Bachelor is pathetic, bunch of gurls fighting for a guy!....C'mon! but when is the opposite I kinda like it =)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: All those who petitioned for stopping Yakub's hanging , may hang themselves ...This would be the best  "Shraddhanjali" to him
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Might only play Kenny and Jason Aldean tonight djing to prepare for tomorrow. Ya I know I'm a loser for going tomorrow, I didn't buy them..
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Harris English, a #pgatour rookie, playing in his first @THEPLAYERSChamp, started his Saturday by plunking a marshal on the head #ouch
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'm going to hang myself if Neil Young plays his dumb Monsanto protest album front to back tomorrow night. Sorry Neil.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Stacie just hit me up and said my packages might be up here tomorrow if that's the case I'm not going to the rave in San Fran. #priorities
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: An interesting toy. Looks like the the Swatch CEO isn't a fan of the Apple Watch (via guardiantech) http://t.co/iur8nx6dBP
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @VoiceOfTheKurds @TwittGiorgio #Erdogan and #Isis are the same thing!! Nazisti!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 'Saturday Kitchen' is on and it's Sunday. Mind = fucked.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Sad I won't get to see @ZachMTV on The Challenge: Battle of the Seasons tonight :( I guess I'll have to wait until next Wednesday..
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So cynical of the electoral board to make preparations for snap polls on Nov. 1 as Pres. Erdogan refuses to give gov-forming mandate to CHP.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The vile penny pinching Tories shame us all: David Cameron's limp action on refugees puts Britain outside the EU http://t.co/UFnDPt6aHD
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #Corbyn A desperate attack on JC today twitter. BBC, Telegraph, Sun, harpy known as Mensch. Hold on through the screaming for all our sakes!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: if I don't see Ed Sheeran in concert I'm going to drown myself, I've been wanting to see him since the 7th Grade
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i just unfollowed my cousin's posts on facebook because he called david cameron a pussy for saying we may need to accept more migrants :)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I love Ozil but how on earth is he the 1st choice corner-kick taker for both Germany and Arsenal? What the hell does he do in training??
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RE: @leighacton What the heck was obama doing for the 1st 2 years when Democrats controlled everything?!!! http://disq.us/2lpzqm
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Lying Pokahontas Warren! Where is Ben Carson on this list?!? https://t.co/9Pb9J9ixiG
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I think I may have spent too much on Carmelo Anthony. I only hope that his thick-framed black glasses will console me in the post-season.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Francesco Totti thinks Roma will be unable to catch Juventus & wants the #SerieA side to aim for 3rd this season http://t.co/13FxCEbw
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: may i just say the lighting in Sharknado 3 could use a little work?????
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Super Eagles Coach Sunday Oliseh has revealed Chelsea midfielder John Mikel snubbed his calls in London while he attempted to speak with him
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bryant exits game with apparent injury: Cubs third baseman Kris Bryant had to leave Sunday's game in the fifth... http://t.co/2CqU2rNj0H
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Remember! original Christians of USA choked the food &amp; water supplies of the pagans to make them toe the line http://t.co/FdFdh5eKza
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I hope Paul Dunne blows up tomorrow only because UAB beats us in the tourney... #stillnotoverit
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Armed with the tools of power &amp; intimidation Harper is trying to steal our country.  On October 19th, armed with pencils LET'S TAKE IT BACK.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: heading into this sunday im in trouble At the TE spot Vernon Davis is on the bye Fred Davis is on IR and Finley Is Q'able
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: RT @HowardErickson: My sons were watching MTV the other night. Looked like an absolute freak show. What happened to Hank Williams, Johnn ...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Apparently Justin Beiber is in the area. I know this because I have students (plural) missing school tomorrow to see him.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: -.- today is Monday.. Damn it. I'm gonna miss my Rui En's show tonight.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Well, what do you know....   "Spokane sues Monsanto for PCB contamination" http://t.co/vvBdUyPSnv
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @verumserum Vandals in Oakland same as the night before in SF with Afghans grown in. http://t.co/hTOswj4n
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I saw Cowboys and Aliens... OHMYGAWD it was so stupid. Tomorrow i'm seeing The Help which i hope is better.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Productoffear_   "Arkham Knight, sir. I may be new to you but I'm not to then Batman. We have something in common. We both want his head."
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 3rd creeper base explosion because Tommy wouldn't give me everything I had ever gathered in the game. I am so done with Minecraft
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The most unrealistic thing in any movie was in "Compton" when Ice Cube was sitting in front a Mac with Final Draft open writing "Friday."
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Putting in my 2 weeks at IHOP tomorrow but probably gonna get fired for it bc my manager is insane. Oh well.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bunch of propagandists. Nazis yesterday, Nazis today.Russian Goulag: Nothing new in the East. https://t.co/ntkb7tyHvo
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: OK. I'll admit it: pigs do indeed fly - https://t.co/GEDDURspRt (unless that's another *fake* news story...)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It may be because I'm listening to the #GOPDebate on the radio, but Bobby Jindal sounds like Kermit the Frog. I like him though.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: God he's a daft thing! He (Merlin) is not very bright sometimes! She (Circe) apparently sat there washing her paws, ignoring him! #girls
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @oliverporter obviously we're not looking great right now, but the 'Arsenal will finish 5th' prediction is wrong every year!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Matt Flynn May Never Play Quarterback for the Seattle Seahawks | Bleacher Report http://t.co/7G6XFRVa via @bleacherreport @seahawks
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: To whom it may concern: I just fucked your bitch in some gucci flip flops.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #money Windows 10's Real Cost Is To Pirated Software And Games: Microsoft may be about ... http://t.co/Y7sCmhgUwp http://t.co/HrdENZhbxe
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Yesterday the #NHL cancelled games up to November 1st. The Winter Classic and All-Star game could be in jeopardy soon.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: January Jones in Jason Wu: Usually I adore January's red carpet looks but this isn't for me. Nude with black mesh =meh http://t.co/mv5Nl3h3
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ed Sheeran concert tomorrow and I'm extremely sad I'm not attending, I'm gonna be depressed the whole day
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: What a wimp Hulk Hogan is for apologizing after making remarks about blacks then apologizing.On Don Says, Saturday at http://t.co/V0MKyzsedh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I just saw a 3rd grader talking on her I phone 6... Wtf is wrong with this world. I would be lucky to have a Nokia in 3rd grade...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John Kasich thinks the Roots are "offensive" http://t.co/TTOZGoLMvM
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I WAS going to go to the Sam Smith concert tomorrow and find it insulting his people only gave 20 hour notice on the postponement.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: In 27 hours i know if im gonna see the boys live on May 1st!! Omgg im sooo scared for tomorrow!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This may be a reason to swap, iOS has too many daft games.  \""Android is a desolate wasteland when it comes to games.\"" http://t.co/RjN9RrFT
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I want to see Ed Sheeran tomorrow but I can't
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Giants 3rd-round pick failed drug test at NFL Combine: Jayron Holsey knew it would hurt him bec... http://t.co/PZPzx0Dv #newyork #sports
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: #DeMonetisation was the favourite of leftists and socialists once upon a time. Amusing to see the boot on the right side.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So Aston Villa have a \""must win\"" game against Norwich City tomorrow lunchtime.  MUST WIN - how the mighty have fallen.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Chris brown is going to be in atx on Wednesday &amp; I'm so so sad I can't see my baby :/
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i remember when zayn left i took down all my posters and sat in my 1d blanket with 1d headphones in and stared at my blank wall crying
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @AmeliaMangan Plus I may have hurt the feelings of Jurassic World's director! https://t.co/q8r70uUk8n
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: today is Desperation Day. If you know what i mean.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Man, 2016 has been a heavy hitter! Robert Vaughn, Leonard Cohen, Arnie Palmer, Gene Wilder, John Saunders, Flo Henderson, Ali, etc.. Sigh.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Missing  Foo Fighters concert on the 12th at the gorge though so that's a major bummer
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Brothers off to Ibiza tomorrow and he's currently in the kitchen listening to Fleetwood mac, fucking loser hahahah
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Damn Drexel and Penn have canceled classes for Monday and Tuesday due to the hurricane.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Heres everybody's warning nobody better piss me off tomorrow, Idc who you are I'm gonna snap #done #imatmybreakingpoint #canttakethisanymore
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @JustinCrew is tomorrow the pre-sale for JB in Mexico city? because ticketmaster is making a pre-sale tomorrow i'm sorry i''m so confused.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: ECHO: Sex offender is warned he may face jail over offences http://t.co/VetvYrYh #Dorset
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Man I'm so mad I knew it was Taylor the green meanie I was just hoping I was wrong 😭😭 #ScreamQueens
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bautista: We've got David Price going tomorrow. I don't think they feel good right now going home. (2 of 2)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I never had a good time, I sat by my bedside, with papers & poetry about Estella.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: ok.. going down to Melaka tomorrow morning, with two others.. visiting fren in ICU. :(
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fight me.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: How ever many girls I see tomorrow at grassroots wearing that nirvana shirt with the X eyes is how many times I'm shooting myself
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I don't understand the narrative that Thor owned the game because of that first pitch. The Royals got to him in the 1st &amp;  2nd, right?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'd vote for Trump as a joke (he's in the WWE HOF ffs) but I'm too scared he'd actually win. At least he'd be the 1st Pres to be stunner'd
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Bootyclapthundr Force out at 2nd was the first out, then the walk to Harper, then DP.  Yea terrible managing.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Bit concerned my brother hasn't read the facebook message I sent him asking him to bring me the last 2 episodes of Hannibal tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Choosing to read the transcript of the interview Mansbridge did with Harper due to the extreme 2nd hand embarrassment I'm bound to endure
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: By botching case against Lieberman, Israel's AG may have made way for his union with Netanyahu   http://t.co/clCKpDsH
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Changed my field hockey number from 5 to 4 bc Zayn left but if the unthinkable happens this March I guess I'm gonna be number 0
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: 2016: YEAR OF DEATHIt continues..Jimmy Perry  (86)Leonard Cohen  (82)And now.. Fidel Castro  (99)Dear God, when will it end..
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Merlin! I've been up since 3am and have a busy day today. Just kill me now.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: FUCK! Either i get bit or i turn off my fucking PS4! I ain't finna sit thru Lee's death for the 2nd time! #PS4share http://t.co/Pz9bPFnSMf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @jacquelinemegan I'm sorry, I Heart Paris is no longer available at the Rockwell branch! You may call 8587000 to get a copy transferred! :)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I rate Lee Dickson but Danny Care has to be on the bench sat for the 2nd test 60 mins with tired legs he will be dangerous #rugby #saeng
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Btw, whoever decided to use Rohypnol as a date rape drug, may you get creepy diseases and may you wish to die every second of your life! >_<
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @SamsungMobileUS I bought 2 Note 7s; which obviously I had to return; now using LG V20 over my Galaxy 7 plus; when is next Note version?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Stuck at the office tomorrow Saffers? Missing AB's v Tonga? Try @jedthian on streaming Alternative Rugby Commentary - ARC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Heading back to greenville on monday! UGH WHY CANT TRAININGS BE IN COLUMBIA?! Im tired of going to freakn greenville!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @callumringer_ @EDP24 And just wait for the BBC partnership to kick in. May as well rename Eastern Tory Policies now
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Holy drunk! Wine, Johnny walker and beer are not a great combo esp on a Thursday night to many emotions too much sadness, calling it a night
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: David Cameron is an evil bastard, may karma catch up with him.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Murray is pissed here and in the march! Hope he pulls it off #USOpen
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Dustin Johnson is just a pig with this 3rd and 4th round play
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @thepieface I hate it more. My Xbox controller is in London so I can't play until sunday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It is sad to see Christians living in the bondage of ignorance. May God have mercy on Pastors.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So whats good Miley? @MileyCyrus ...lol Nicki with that fuck shit,we may as well make a song about it. Hit me up. I ghost write like Quentin
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Robbed by George Osborne...while the royals play decoy | Kevin McKenna http://t.co/aDQnPJxNQi
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @WeAreCavsNation yeah lebron doesnt look happy in the cubs jersey
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kanye West struggling through this speech is like watching a four year old learn how to read. "It's ok, baby, you can try again tomorrow."
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @andrewilamb Chesters tomorrow for the match with me and shoddy you cool motherfucker?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Why I decided to watch The Notebook for the first time alone at midnight on a Thursday is beyond me, can't stop crying http://t.co/vnWcr3J5
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: David De Gea&amp;#039;s girlfriend "very disappointed" after Real Madrid move collapses at the 11th hour http://t.co/2ij7NlIE8I #plfans
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You mean I have wait until SHARKNADO 4 to know what happened to April?! This is bullcrap! Bullcrap I tell you! Ahhhh!!! #Sharknado3
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My biology professor had the audacity to tell me "enjoy that Taylor swift concert...you have a test + essay tomorrow" http://t.co/4Pg2lhfryp
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Curtis Painter's finally going to get a shot tonight.  I can't help but root for that guy!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: All around bad game for the pitchers tonight 5th one in the game &amp; the White Sox are still swinging the bats #Indians #MLB #PlayoffRace
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Amnesty for IRA murderers, some with dubious pasts are in govt in NI, free from prosecution, but today ex-para is arrested re: Bloody Sunday
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I wish Nicki would have flew across the stage and slapped that hoe !  https://t.co/D9dtRKeZji
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: An apologist through and through! Tackle the hate that is Islam, then you may start to address the root cause! https://t.co/d5jvDf7QPi
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Monsanto may be to blame for soaring suicide rates among farmers in India:  In India, the suicide r... http://t.co/qlEceD6BeM @inhabitat
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Brock Lesnar coming to ESPN tomorrow. To be safe I am going 300 miles away. Let him kill @RoFloESPN and @TheCoachESPN
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @MinoRaiola just because your hunger for more money Zlatan will play in a team that finished at the 10th place and struggle for top 5,shame
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @SenJohnMcCain @MarkSalter55 @WSJ Plez fight Putin!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @DustinHurst @jhwygirl when you're accustomed to the 5th grade anti-intellectualism of Fox and conservative radio it must be jarring.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @BungieHelp I've sat here since 7 its now 1am and it has moved 2% i'm off if it's not done when I wake I'll be ringing xbox for a refund.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @UKIP @UKLabour @Conservatives We can exit & stop paying the undemocratic EU today with one order from our PM backed by MP's in Parliament.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Eww Lady GaGa is at The Femme Fatale Tour tonight. Don't be surprised if you see GaGa using Britney's props on her next tour lol
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fraud fears as IEBC turns to old poll kit: The electoral commission on Wednesday said it will take measures to e... http://t.co/qpItUlBn
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @OldMaryJade you might not wanna come to anatomy tomorrow, we have a test lol
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Have to say I think Jason & Taylor may have been robbed by the married duo tonight of Blake & Miranda...
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: This very well may be the first season of Big Brother ever that I don't finish. And I've watched since season one #bb17
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @jamesjammcmahon get @DONBROCO on february for valentine's day, the suave fuckers
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Springbok captain John Smit has torn ligaments in his right arm and may miss out on the Rugby World Cup. ek dink dis gooie nuus! Sorry!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: After what Jon Stewart did to John Cena he better show up to work on Monday.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @HBarnes ill be at the Dec 22nd game vs the Lakers. My GF is a Lakers fan so basically we won't be talking much that day. Warriors!!!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: it's 1am i should sleep i have school tomorrow ugh i miss teen wolf, can january pls come fast already
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Christie may beat him to it but either way both are out. Insiders: Rick Perry will be first to drop out http://t.co/OOU4003Y5h
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @XboxSupport abt time we got a reply from xbox 4 hours and counting, this is the 3rd time in a month what u doing to fix this issue xbox
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Red Cross: Syria conflict is now a civil war: The International Committee of the Red Cross said on Sunday it now http://t.co/2qmInBUf
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @JackJackJohnson  you and  gilinsky will make you give me 567 cardiac arrests, sun missing 4 days to Calibraska
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I'd rather get punched in the face by john cena than go to school tomorrow smh
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @shockinglynaomi Sorry!! Still hope to see you in Los Angeles in February!! #NFTYConvention
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: LIES!You said that on Lana Del Rey's new album there was a collab with Sam Smith and guess what? It's a fucking lie! https://t.co/3cHVkjDom9
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Wheres_myMOJO stfu wit them excuses...Clippers gonna beat the hell outta the Lakers tomorrow
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Is Kanye West really going to run for president? I'm afraid #idiocracy may become a reality sooner than we'd hoped... http://t.co/HM0FDtoHhG
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: .@realDonaldTrump First Melania steals a speech from FLOTUS, then you steal one from Gene Roddenbury. #Plagiarism
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: What if Cena wins the Undisputed WWE Championship match at Summerslam this Sun? A riot is very likely to take place!!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @itzyourboy_ if you think Harry Potter is better ur not gunna survive as an adult lol honestly though when I went to Logan 3rd was the best
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Erdogan may be about to take his push for power to a whole new level, and is drawing U.S. and NATO into his game
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Let U.S. lift embargo...give socialism a chance on equal playing field..the US for years have planted sleepers in C… https://t.co/K2ZbDlQWy8
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: so, i heard earlier today that michael jackson's doctor is finally going to trial. it's been a year & NOW you're doing something?! #BS
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kobe in the 4th is like Eli Manning. #Beware
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Had a dream that I saw Nirvana live and Kurt Cobain sat and split his cigarette with me afterward and told me about life. Woke up sad.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: I can't believe the 3 important people in my life are going to Hawaii Friday without me
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: In good conscience (which is really absent) dems never intended to release the poor from bondage to the gov dole. Q… https://t.co/Inp48D6kG3
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Watching Kandi Factory... Dam I could have made the show can't none of them SANG! LOL
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: WSJ: Microsoft testing homegrown handset designs with suppliers, may not see mass pro:   Until very recently, Mi... http://t.co/7E5QXak8
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Run #MELANIATRUMP run! Save yourself https://t.co/SWR5ZgkvME
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My parents are in the 9th row at a Foo Fighters concert and I just got home from work wondering if it's too early for bed. Life is weird.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: i miss my bestfriend,Octaveia, my cousin ,April .. my bestie,Kaliyah, Tricey, Dasia,Mikia,& the other people i miss with at Richwood !!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: It sucks that I'm not even excited for the #SPECTRE theme tune debuting tomorrow, if it is Sam Smith it will really dampen my excitement.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The Lorax is one of the stupidest animated movies I've ever sat through. I wasted a nap for this?
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Matthops82 @nightowl197395 @sallykohn  Plus, it's Michelle Obama trying to pick what foods we can eat.  I may have read that wrong, though.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: John Cena may have been injured tonight at a WWE live event.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: So @Snowden lied to everyone.@CIA @NSAGov https://t.co/Xhknr8VkwA
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @NICKIMINAJ today you try to destroy a Sir Mix-a-Lot hit - tomorrow Michael Jackson? WRITE YOUR OWN DAMN HOOKS!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @Arachnera I may hate Naruto because it's terrible, but I am going to see Boruto.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @dlepeska @TimepDC Dear David, I hope Erdogan's mentors won't translate into the Turkish ,otherwise he may use it against Egpytian leader :)
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: The road to Erdogan's new sultanate is paved with blood: https://t.co/i88i9nmajC
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: My 1st Ever Male frnd in London just send me a Ping!!! Dat ping is so annoying, he is my 1st gud frnd bet why dis Ping??? Angry much
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Ordered 3 Amazon Prime items yesterday. One will arrive Saturday (2 days!), another Sunday (3 days?), the third on Tuesday (5 days???).
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @LewieP What a giggle. When 3rd parties were DESPERATE to work with Nintendo.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Anyone in Niagara tomorrow should note that Harper will be in Welland. The sulfuric smell won't be coming from the Netherby tunnel for once.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Just watched the Rhonda Rousey v. Meisha Tate fight for the 1st time and that was one of the nastiest armbars
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Kane may have raped a woman &amp; the 1st thought teams have is about trading for him? Fucked up. http://t.co/4mB4QYQKKU http://t.co/i1uXbk36y7
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: You all have nothing to do in Islam......may Allah (SWT) keep misguiding you inshallah.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Here's some @sadatchair data on the partisan divide separating Dem and Rep views of Putin and Russia's role in the… https://t.co/94BcPe37MT
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Oh my God! Does he have to lick his boots? #uniteblue #notmypresident #TrumpTransition https://t.co/70E94gY0hx
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: How r the Christian "Right" going 2 accept this from 1st lady when Flotus Michelle Obama got slammed 4 her bare arms http://t.co/psat2Dgitx
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: if Twilight wins all the awards at the TCA's tonight, I will burn my Twilight posters k? ok.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: not a damn thing went the way of the Red Sox tonight and that's baseball and that's life.   win the series tomorrow.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Everyone's like TGIF!  And I'm over here like I work tonight. And a double tomorrow. And Sunday. And monday.  #grindin #needmoney
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: @kevinanderson18 Murray will take you apart on Monday. One break of serve each set will be enough for Andy. Your return game is shit!
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Anybody at the Trib: where is Ike Taylor's Friday column? Sucks I can't find it. First one I've actually looked forward to reading.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: Fuck man, I can't go see Shawn on the 8th and I can't go to see Jack &amp; Jack on the 9th.
+ Actual Label: negative
+ Predicted Label: positive
+
+Text: First it turns out Meek Mill is an Arsenal fan, now this. I'm finding a new club. This is a Barcelona account now. https://t.co/DYpw4xYH7w
+ Actual Label: negative
+ Predicted Label: positive
+
